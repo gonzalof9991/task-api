@@ -4,7 +4,10 @@
     <list default="true" id="e2f55f6f-c5cd-435c-84c1-24203f3f6b0a" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+=======
+>>>>>>> staging
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +44,11 @@
       <option name="presentableId" value="Default" />
       <updated>1680802640504</updated>
       <workItem from="1680802641860" duration="68000" />
+<<<<<<< HEAD
       <workItem from="1680982550161" duration="1838000" />
+=======
+      <workItem from="1680982550161" duration="1502000" />
+>>>>>>> staging
     </task>
     <servers />
   </component>
